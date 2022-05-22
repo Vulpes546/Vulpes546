@@ -1,5 +1,12 @@
-### Hello there 👋
+# Hello there 👋 my name is Jakub (Vulpes546) Lis
 
+## I am currently learning:
+- TypeScript
+- React.js
+- Node.js
+
+## You can reach me on:
+- [Twitter](https://twitter.com/JakubLis546 "@JakubLis546")
 <!--
 **Vulpes546/Vulpes546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
