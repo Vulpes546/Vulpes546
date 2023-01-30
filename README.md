@@ -4,9 +4,6 @@
 - TypeScript
 - React.js
 - Node.js
-
-## You can reach me on:
-- [Twitter](https://twitter.com/JakubLis546 "@JakubLis546")
 <!--
 **Vulpes546/Vulpes546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
